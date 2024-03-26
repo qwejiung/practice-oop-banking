@@ -1,5 +1,3 @@
-# practice-oop-banking
-
 ## **COW L2 백엔드 과정 JAVA 객체지향프로그래밍 과제**
 
 ## 📮 미션 제출 방법
